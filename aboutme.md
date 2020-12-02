@@ -4,4 +4,4 @@ My research interest lies in the field of Development Economics and Economics of
 
 Previously, I have worked at the International Institute for Educational Planning-UNESCO, Paris as an impact evaluation consultant.
 
-__[Curriculum Vitae](/pdf/Rao_CV_latest.pdf")__ (Updated June 2020)
+__[Curriculum Vitae](/pdf/Nikhitha_Resume.pdf")__ (Updated Novemeber 2020)

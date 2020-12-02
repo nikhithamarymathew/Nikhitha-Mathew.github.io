@@ -1,0 +1,9 @@
+relativeURLs = true
+title = "Nikhitha Mary Mathew"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+
+[params]
+    shortbio = "Research Associate, Indian School of Business"
